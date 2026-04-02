@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./03-Hypothesis_Testing/independent_t_test/function",
+        "./03-Hypothesis_Testing/Pearson_correlation/function"
+    ]
+}
